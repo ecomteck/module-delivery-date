@@ -10,6 +10,8 @@
     },
     "type": "magento2-module",
     "version": "100.0.0",
+    "minimum-stability": "beta",
+    "prefer-stable": true,
     "license": [
         "OSL-3.0",
         "AFL-3.0"
